@@ -1,2 +1,5 @@
 What is your problem??
 -- +1 commit
+
+
+-- add thẳng vào master
